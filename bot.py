@@ -21,7 +21,7 @@ from config import ADMIN_IDS
 
 # === CONFIGURATION ===
 # IMPORTANT: Hardcoded bot token and owner ID for direct use (no environment variables required)
-TOKEN = "6490953211:AAHg0IJrlvzgJa4Vd__YqoF8kWTAorW6R1A"
+TOKEN = "6697645670:AAEaHuNgpprAo5vwocsuWjOhm0a6NRnTlpk"
 OWNER_ID = 6231439063
 # --- New Configuration ---
 AUTHORIZATION_CONTACT = "@ahmed_snde"
